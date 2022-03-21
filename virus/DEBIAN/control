@@ -1,0 +1,7 @@
+Package: VIRUS
+Priority: important
+Section: utils
+Maintainer: omkar pise
+Version: 1
+Architecture: amd64
+Description: i am virus
